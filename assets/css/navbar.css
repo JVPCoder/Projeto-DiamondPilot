@@ -1,0 +1,9 @@
+.hand-title{
+    font-family:'Dancing Script', cursive;
+    font-size: 1.8rem;
+}
+
+.bg-blue{
+    color: var(--bg-white);
+    background-color: var(--bg-blue);
+}
